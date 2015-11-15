@@ -1,0 +1,105 @@
+﻿body {
+    margin:0px;
+    padding:0px;
+}
+.header{
+            height:90px;
+            width:100%;
+            background-color:darkslategrey;
+            position:fixed;
+
+        }
+.header .header1{
+    float:left;
+    height:33%;
+    width:100%;
+    background-color:black;
+}
+.header .header1 .header11{
+    float:left;
+    height:88%;
+    width:80%;
+    background-color:#dddddd;
+    border:solid ;
+    border-color:black;
+   
+
+}
+.header .header1 .header12{
+    float:right;
+    height:100%;
+    width:19%;
+    background-color:black;
+
+}
+.header .header2{
+    float:left;
+    height:33%;
+    width:100%;
+    background-color:white;
+    
+
+}
+.header .header2 .header21{
+    float:left;
+    height:100%;
+    width:80%;
+    
+}
+.header .header2 .header22{
+    float:left;
+    height:100%;
+    width:20%;
+    background-color:#eeeeee;
+    
+}
+.header .header3{
+    float:left;
+    height:33%;
+    width:100%;
+    background-color:darkorange;
+
+}
+.content{
+    height:900px;
+    width:100%;
+    background:#dddddd;
+}
+.content .content1{
+    float:left;
+    height:100%;
+    width:70%;
+    background-color:#eeeeee;
+
+
+}
+.content .content1 .content11{
+    float:left;
+    background-color:white;
+    height:9%;
+    width:80%;
+    
+    margin-bottom:0.5%;
+    margin-left:10%;
+
+}
+.content .content2{
+    float:left;
+    height:100%;
+    width:29%;
+    margin-left:1%;
+    
+    background-color:#eeeeee;
+
+
+}
+.foter{
+    height:150px;
+    width:120%;
+    background:black;
+}
+h3{
+    margin:0px;
+    padding:0px;
+}
+

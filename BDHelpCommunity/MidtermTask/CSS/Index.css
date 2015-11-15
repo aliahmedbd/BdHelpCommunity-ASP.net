@@ -1,0 +1,31 @@
+﻿body {
+    margin:0;
+    background-color:seagreen;
+    height:1000px;
+    width:100%;
+}
+.header{
+    margin:0px;
+    background-color:darkslategrey;
+    width:100%;
+    height:30px;
+}
+.header .part1{
+    float:left;
+    height:100%;
+    width:70%;
+    background-color:darkslategray;
+
+}
+.header .part2{
+    float:left;
+    height:100%;
+    width:30%;
+    background-color:lightslategray;
+}
+.content{
+
+}
+.footer{
+
+}
